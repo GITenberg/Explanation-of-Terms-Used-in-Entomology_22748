@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25517'
     url: http://www.gutenberg.org/2009/agents/25517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22748#Explanation-of-Terms-Used-in-Entomology
 gutenberg_bookshelf:
 - Biology
 - Animals-Wild-Insects
